@@ -11,3 +11,4 @@ look at the bottom picture :
 > 3. siamese network: 
 > (t.ly/R6ga)
 > 4. custom loss function: another important thing is that you can create  your own  loss function, at this repository you can see the structer and usage.
+> 5. huber loss function : t.ly/nigp 
