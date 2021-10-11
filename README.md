@@ -15,3 +15,4 @@ look at the bottom picture :
 > 4. custom loss function: another important thing is that you can create  your own  loss function, at this repository you can see the structer and usage.
 > 5. huber loss function : (t.ly/nigp)
 > 6. huber_object_loss: to avoid hard code the threshold argument you can turn the hubre loss function into a class
+> 7 . Lambda layer : using lambda layer help to develope your own layers
