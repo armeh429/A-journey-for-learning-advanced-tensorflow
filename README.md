@@ -17,4 +17,6 @@ look at the bottom picture :
 > 6. huber_object_loss: to avoid hard code the threshold argument you can turn the hubre loss function into a class
 > 7 . Lambda layer : using lambda layer help to develope your own layers
 > 8. custom dense layer: layer is a class that collect parameters and encapsulate state and computation. state is the weights of each neurons and copputation is forwarding paass. 
-> look at this picture (https://miro.medium.com/max/1400/1*16IK1GQUEwcmpLQYISmZSA.png)
+> look at this picture 
+> 
+> ![layer](https://miro.medium.com/max/1400/1*16IK1GQUEwcmpLQYISmZSA.png)
