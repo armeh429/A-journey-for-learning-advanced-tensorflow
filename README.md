@@ -20,3 +20,5 @@ look at the bottom picture :
 > look at this picture 
 > 
 > ![layer](https://miro.medium.com/max/1400/1*16IK1GQUEwcmpLQYISmZSA.png)
+>
+> 9. Custom_layer_activation: at the previous notebook we did not talk about activation function. you can add your activation function as the following! 
