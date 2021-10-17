@@ -22,3 +22,4 @@ look at the bottom picture :
 > ![layer](https://miro.medium.com/max/1400/1*16IK1GQUEwcmpLQYISmZSA.png)
 >
 > 9. Custom_layer_activation: at the previous notebook we did not talk about activation function. you can add your activation function as the following! 
+> 10. Basic custom model helps you to create a model from A to Z 
