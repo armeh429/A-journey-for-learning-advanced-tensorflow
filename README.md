@@ -24,4 +24,4 @@ look at the bottom picture :
 > 9. Custom_layer_activation: at the previous notebook we did not talk about activation function. you can add your activation function as the following! 
 > 10. Basic custom model helps you to create a model from A to Z 
 > 11. Resnet: A residual neural network (ResNet) is an artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
->  [touch the link](t.ly/MI1i).
+>  [touch the link](https://www.analyticsvidhya.com/blog/2021/06/understanding-resnet-and-analyzing-various-models-on-the-cifar-10-dataset/).
