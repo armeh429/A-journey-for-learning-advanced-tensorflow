@@ -25,3 +25,5 @@ look at the bottom picture :
 > 10. Basic custom model helps you to create a model from A to Z 
 > 11. Resnet: A residual neural network (ResNet) is an artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
 >  [touch the link](https://www.analyticsvidhya.com/blog/2021/06/understanding-resnet-and-analyzing-various-models-on-the-cifar-10-dataset/).
+>  12. Basic_tensor: a tensor is a simply a very flexible way of storing data.
+>   ![introduce tensor](https://www.kdnuggets.com/wp-content/uploads/scalar-vector-matrix-tensor.jpg).
